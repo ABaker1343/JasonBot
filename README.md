@@ -1,2 +1,3 @@
 # JasonBot
-Jason bot using discord api
+Jason bot using discord api and python
+
